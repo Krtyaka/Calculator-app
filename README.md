@@ -34,7 +34,7 @@ calculator-app/
 
 ## 📸 Preview
 <p align="center">
-  <img src="images/screenshot.png" alt="Calculator Screenshot" width="400"/>
+  <img src="images/screenshot.png" alt="Calculator Screenshot" height="450" width="400"/>
 </p>
 
 ---
