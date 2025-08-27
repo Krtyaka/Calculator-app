@@ -40,7 +40,7 @@ calculator-app/
 ---
 
 ## ▶️ Live Demo
-Once deployed with GitHub Pages, your app will be available here:  
+The App is available here:
 👉 **https://Krtyaka.github.io/calculator-app/**
 
 ---
